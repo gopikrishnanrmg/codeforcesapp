@@ -3,6 +3,7 @@ package com.example.gopikrishnan.codeforces;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -37,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     public void onclick()
     {
         final TextView textview = (TextView) findViewById(R.id.textView2);
+        textview.setMovementMethod(new ScrollingMovementMethod());
         Button button = (Button) findViewById(R.id.button);
         button.setClickable(false);
         button.setText("Loading");

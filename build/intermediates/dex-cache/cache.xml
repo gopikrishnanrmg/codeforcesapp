@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/514ca31ea3c7d04a726d6acbfed575de81970877/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04b767929b905934ca121c964bafbc4ed5f7c1bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/024a7b4df7a29eb09b64d27a732dd3b62fb2fb48/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_88c3d20c697092aab52bfa6431e8ecef459ff188/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/514ca31ea3c7d04a726d6acbfed575de81970877/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_04b767929b905934ca121c964bafbc4ed5f7c1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/024a7b4df7a29eb09b64d27a732dd3b62fb2fb48/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_88c3d20c697092aab52bfa6431e8ecef459ff188.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7451e0cd0c2d0e72ac619f7c908b21b732240d15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea77aabc53560a1cd9528e60bd31da0b96d2477c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7451e0cd0c2d0e72ac619f7c908b21b732240d15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_ea77aabc53560a1cd9528e60bd31da0b96d2477c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/56e6a1d66b89ddfb312889b6c2f872d264e82a63/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d0eaaf372c40bbba83fec64d76caaabcac172730.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/56e6a1d66b89ddfb312889b6c2f872d264e82a63/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d0eaaf372c40bbba83fec64d76caaabcac172730/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1191e1cee80a98c66112a0bc1827713522d4bb54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f04890478fae1eaa2c7795f3ce7dbebcfa93e4e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1191e1cee80a98c66112a0bc1827713522d4bb54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_f04890478fae1eaa2c7795f3ce7dbebcfa93e4e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/56e6a1d66b89ddfb312889b6c2f872d264e82a63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80cf79c79512bd18f431ca2ca14542e96c765792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Codeforces/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e6f56d060d577f8a93eed7e15f0174554446e33/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/56e6a1d66b89ddfb312889b6c2f872d264e82a63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_80cf79c79512bd18f431ca2ca14542e96c765792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/bcc54407468cbf9042f72201712a44e126c53317/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_cace878973899f4df93779b70e20e6767e94dfcd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/bcc54407468cbf9042f72201712a44e126c53317/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cace878973899f4df93779b70e20e6767e94dfcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1191e1cee80a98c66112a0bc1827713522d4bb54/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_98a28262a3878f143565a1e1652d4b78684708ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1191e1cee80a98c66112a0bc1827713522d4bb54/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_98a28262a3878f143565a1e1652d4b78684708ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/17f38236f12c478e86b5b6b07af9fa484e4c9856/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b04d96793c4a2daf27749b7cd31130e981095b3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7451e0cd0c2d0e72ac619f7c908b21b732240d15/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9285126317b666d729d02a2880fc6af15574fff5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/52b48a4edc32bc702cdd5a37778a797a3b338212/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0809a7d142e9919c6a30a01e23b7eb24e6d1db61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/52b48a4edc32bc702cdd5a37778a797a3b338212/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_0809a7d142e9919c6a30a01e23b7eb24e6d1db61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7451e0cd0c2d0e72ac619f7c908b21b732240d15/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9285126317b666d729d02a2880fc6af15574fff5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Codeforces/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5acb827e330b086b0ffffc89d60081c53d610a9a">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e3c3d3194f80516d1f74e602ae0bac093477204f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/17f38236f12c478e86b5b6b07af9fa484e4c9856/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_b04d96793c4a2daf27749b7cd31130e981095b3c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/52b48a4edc32bc702cdd5a37778a797a3b338212/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0079b4470f3c4aed3dc613453b0cdcbe4e28ee75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a0ebed08a9b0a756e1259e24f9c4cfdab7f721fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6689572d2e7fc6e27d6a77f53f813b8b0d7f8016/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a0ebed08a9b0a756e1259e24f9c4cfdab7f721fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_6689572d2e7fc6e27d6a77f53f813b8b0d7f8016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/52b48a4edc32bc702cdd5a37778a797a3b338212/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0079b4470f3c4aed3dc613453b0cdcbe4e28ee75.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/024a7b4df7a29eb09b64d27a732dd3b62fb2fb48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/root/Codeforces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d7fb2665fcbec5429004c7308705f847c350282/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/024a7b4df7a29eb09b64d27a732dd3b62fb2fb48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/root/Codeforces/app/build/intermediates/pre-dexed/debug/classes_4d7fb2665fcbec5429004c7308705f847c350282.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gopikrishnan/Codeforces/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/gopikrishnan/Codeforces/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/root/Codeforces/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
