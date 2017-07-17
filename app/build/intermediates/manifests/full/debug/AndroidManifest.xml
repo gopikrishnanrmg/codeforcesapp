@@ -17,6 +17,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.gopikrishnan.codeforces.MainActivity" >
+        </activity>
+        <activity
+            android:name="com.example.gopikrishnan.codeforces.Main2Activity"
+            android:exported="true"
+            android:label="Codeforces"
+            android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
