@@ -91,7 +91,7 @@ public class Main2Activity extends AppCompatActivity {
                                 String maxRank = jsonObject.getString("maxRank");
 
                                 new imagerunner().execute(pic);
-                               
+
                                 int d = Integer.parseInt(regtime);
                                 d+=19800;
                                 Date date1 = new Date(d * 1000L);

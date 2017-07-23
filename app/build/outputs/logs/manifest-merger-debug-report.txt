@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:3:5-50
 		INJECTED from /root/Codeforces/app/src/main/AndroidManifest.xml
@@ -18,17 +18,17 @@ ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
 		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:7:5-24:19
+ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:7:5-27:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/a6888576509fc30d89b1a66fab9434176acc8bcd/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:24.2.1] /root/.android/build-cache/bd94151f312ee4045759dd4de3a8dbf57a421861/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.android/build-cache/a050d6de988d92e96191386bc7e9504af57ba667/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.android/build-cache/6d1cb5562ff035c5cb7cf349203d46ab077d2825/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.android/build-cache/6b8a2d225e588ba838f0999b7fa917d27b556bdb/output/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-v4:24.2.1] /root/.android/build-cache/f1c8cf9f4e506649982e2d3c532b88de1d241be6/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:24.2.1] /root/.android/build-cache/74f66478817f5a40703887cc7d730911c5e3cfe1/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:24.2.1] /root/.android/build-cache/088a6bf8480c5d277417a4b7d8dfd1392ea36c7f/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /root/.android/build-cache/5b02c5ab5a28a69c4ea214c51b37f31ea7f86037/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.android/build-cache/6d1cb5562ff035c5cb7cf349203d46ab077d2825/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.android/build-cache/6b8a2d225e588ba838f0999b7fa917d27b556bdb/output/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-core-ui:24.2.1] /root/.android/build-cache/942d48d004aad98bc2a2bae7a51d9dddefc97251/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.android/build-cache/5b02c5ab5a28a69c4ea214c51b37f31ea7f86037/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] /root/.android/build-cache/be2e836cd8187bf2b928b676fb6e00fa3ba8684d/output/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:10:9-41
@@ -41,42 +41,46 @@ MERGED from [com.android.support:support-compat:24.2.1] /root/.android/build-cac
 	android:theme
 		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.example.gopikrishnan.codeforces.MainActivity
-ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:13:9-15:20
+ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:13:9-50
 	android:name
 		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:13:19-47
 activity#com.example.gopikrishnan.codeforces.Main2Activity
-ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:16:9-23:36
+ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:14:9-19:20
 	android:label
-		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:19:13-39
+		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:17:13-39
 	android:exported
-		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:18:13-36
+		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:16:13-36
 	android:theme
-		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:20:13-56
+		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:17:13-42
+		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:15:13-42
+activity#com.example.gopikrishnan.codeforces.Home
+ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:20:19-39
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:20:57-23:25
+ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:21:13-24:29
 action#android.intent.action.MAIN
-ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:21:13-65
+ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:21:21-62
+		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:22:13-73
+ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:22:23-70
+		ADDED from /root/Codeforces/app/src/main/AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from /root/Codeforces/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/a6888576509fc30d89b1a66fab9434176acc8bcd/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:design:24.2.1] /root/.android/build-cache/bd94151f312ee4045759dd4de3a8dbf57a421861/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.android/build-cache/a050d6de988d92e96191386bc7e9504af57ba667/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] /root/.android/build-cache/f1c8cf9f4e506649982e2d3c532b88de1d241be6/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] /root/.android/build-cache/74f66478817f5a40703887cc7d730911c5e3cfe1/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] /root/.android/build-cache/088a6bf8480c5d277417a4b7d8dfd1392ea36c7f/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] /root/.android/build-cache/5b02c5ab5a28a69c4ea214c51b37f31ea7f86037/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.android/build-cache/6d1cb5562ff035c5cb7cf349203d46ab077d2825/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.android/build-cache/6b8a2d225e588ba838f0999b7fa917d27b556bdb/output/AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:recyclerview-v7:24.2.1] /root/.android/build-cache/2482e257e41f9ddca42321813d71c8156705ee4d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /root/.android/build-cache/f1c8cf9f4e506649982e2d3c532b88de1d241be6/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /root/.android/build-cache/74f66478817f5a40703887cc7d730911c5e3cfe1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /root/.android/build-cache/088a6bf8480c5d277417a4b7d8dfd1392ea36c7f/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:24.2.1] /root/.android/build-cache/942d48d004aad98bc2a2bae7a51d9dddefc97251/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.android/build-cache/5b02c5ab5a28a69c4ea214c51b37f31ea7f86037/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:24.2.1] /root/.android/build-cache/be2e836cd8187bf2b928b676fb6e00fa3ba8684d/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] /root/.android/build-cache/a050d6de988d92e96191386bc7e9504af57ba667/output/AndroidManifest.xml:23:9-75

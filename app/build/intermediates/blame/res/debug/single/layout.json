@@ -28,12 +28,12 @@
         "source": "/root/.android/build-cache/bd94151f312ee4045759dd4de3a8dbf57a421861/output/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/root/.android/build-cache/bd94151f312ee4045759dd4de3a8dbf57a421861/output/res/layout/design_navigation_item_separator.xml"
-    },
-    {
         "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/root/.android/build-cache/bd94151f312ee4045759dd4de3a8dbf57a421861/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/root/.android/build-cache/bd94151f312ee4045759dd4de3a8dbf57a421861/output/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -76,16 +76,20 @@
         "source": "/root/.android/build-cache/a050d6de988d92e96191386bc7e9504af57ba667/output/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/root/.android/build-cache/a050d6de988d92e96191386bc7e9504af57ba667/output/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/root/.android/build-cache/a050d6de988d92e96191386bc7e9504af57ba667/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
+        "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/root/.android/build-cache/a050d6de988d92e96191386bc7e9504af57ba667/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
         "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/root/.android/build-cache/bd94151f312ee4045759dd4de3a8dbf57a421861/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/root/Codeforces/app/src/main/res/layout/activity_home.xml"
     },
     {
         "merged": "/root/Codeforces/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
